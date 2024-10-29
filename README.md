@@ -1,5 +1,3 @@
-
-코드 복사
 # Spring Boot CI/CD Demo Project
 
 This project is a simple Spring Boot application designed to demonstrate CI/CD capabilities. It provides a RESTful API for managing members, using **Java 17**, **Spring Boot 3.3**, **Gradle**, and an **H2 in-memory database**.
