@@ -25,7 +25,7 @@ project/
 │   │   ├── java/
 │   │   │   └── com/
 │   │   │       └── example/
-│   │   │           └── helloworld/
+│   │   │           └── helloworld/ 
 │   │   │               ├── SpringRestfulApiApplication.java
 │   │   │               ├── Member.java
 │   │   │               ├── MemberController.java
@@ -76,7 +76,9 @@ Dependencies are managed in the `build.gradle` file located in the root director
       // Add your dependency here
       implementation 'org.springframework.boot:spring-boot-starter-security'
   }
-Updating Dependencies
+  ```
+
+- **Updating Dependencies**
 
 To update existing dependencies, modify the version numbers in the build.gradle file or update the plugin versions as needed.
 
